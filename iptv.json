@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Channel x",
+        "name": "Discovery",
         "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg",
         "categories": "news",
         "streamurl": "https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8"
