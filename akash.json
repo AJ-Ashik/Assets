@@ -1,0 +1,61 @@
+{
+    "channels": [
+        {
+            "category_name": "LIVE",
+            "name": "Independent TV",
+            "link": "https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd",
+            "headers": {
+                "license_type": "clearkey",
+                "license_key": {
+                    "keys": [
+                        {
+                            "kty": "oct",
+                            "k": "0y7sNvyooWeaHKXkIDFaIg",
+                            "kid": "onmUkhzsTsaSy2oyRXTqAg"
+                        }
+                    ],
+                    "type": "temporary"
+                }
+            },
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png"
+        },
+        {
+            "category_name": "LIVE",
+            "name": "Ekattor HD",
+            "link": "https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd",
+            "headers": {
+                "license_type": "clearkey",
+                "license_key": {
+                    "keys": [
+                        {
+                            "kty": "oct",
+                            "k": "BN4RMH2yC-sc3Cx27uvsvw",
+                            "kid": "cWpiPR62SFWUKae67k3Dig"
+                        }
+                    ],
+                    "type": "temporary"
+                }
+            },
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png"
+        },
+        {
+            "category_name": "LIVE",
+            "name": "Animal Planet",
+            "link": "https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd",
+            "headers": {
+                "license_type": "clearkey",
+                "license_key": {
+                    "keys": [
+                        {
+                            "kty": "oct",
+                            "k": "qHthsvhaSsAh9tZpds8DQA",
+                            "kid": "UEpNqh5TRZ6LMYAJKWMnhg"
+                        }
+                    ],
+                    "type": "temporary"
+                }
+            },
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1719833976219.png"
+        }
+    ]
+}
