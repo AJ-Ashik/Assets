@@ -1,0 +1,7 @@
+[
+    { "name": "Sports 1", "image": "img/entree10.png", "stream": "tv1.html?stream=sports1" },
+    { "name": "Sports 2", "image": "img/entree10.png", "stream": "tv2.html?stream=sports2" },
+    { "name": "Colors Bengali HD", "image": "img/ColorsBengaliHD.png", "stream": "tv3.html?stream=sports3" },
+    { "name": "Ananda", "image": "img/Ananda.png", "stream": "tv4.html?stream=sports4" },
+    { "name": "ATN Bangla", "image": "img/ATNBangla.png", "stream": "tv5.html?stream=sports5" }
+]
